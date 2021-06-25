@@ -1,0 +1,41 @@
+body
+{
+    /* background: url(https://c6oxm85c.cloudimg.io/cdno/n/q85/https://az617363.vo.msecnd.net/imgmodels/models/MD40000672/06ab3bfbe840e1638120765ac10a54ba9d1_thumb.jpg); */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    
+}
+/* table {
+    margin:50px auto;
+    border: 3px solid black;
+    height: 50%;
+    width: 50%;
+     font-family:Verdana, Geneva, Tahoma, sans-serif;
+     font-size:larger;
+} */
+h1 
+{
+   text-align: center
+}
+td
+{
+    height: 100px;
+    width: 100px;
+    text-align: center;
+    font-size: 60px;
+   
+}
+table
+{
+      margin: 0 auto;
+
+  }
+.verticale {
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+}
+.orizzontale {
+    border-bottom: 1px solid black;
+    border-top: 1px solid black;
+}

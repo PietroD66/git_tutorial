@@ -1,0 +1,94 @@
+h1
+{
+    color: #ff0000;
+}
+h1:hover
+{
+    color: #2a17d8;
+}
+.corpo
+{
+     background: url(https://c6oxm85c.cloudimg.io/cdno/n/q85/https://az617363.vo.msecnd.net/imgmodels/models/MD40000672/06ab3bfbe840e1638120765ac10a54ba9d1_thumb.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+ul
+{
+    border: 1px solid rgb(192, 52, 10);
+    width: 10%;
+}
+.h1colora
+{
+font-weight:600;
+color:  ivory;
+line-height: 40px;
+width: 200px;
+background: rgb(68, 0, 255);
+}
+.licolora
+{
+color: orangered;
+}
+#princ {
+    font-weight: bold;
+}
+#container
+{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    ;
+}
+.btn {
+  display: inline-block;
+  font-size: 16px;
+  color: #fff;
+  background: #333;
+  padding: 13px 18px;
+  border: none;
+}
+.btn-light {
+  color: #333;
+  background: #ffd;
+}
+
+.btn:hover {
+  background: orange;
+  color: #333;
+}
+.classe
+{
+    font-family: 'Seaweed Script', cursive;
+    font-style: italic;
+    line-height: 18px;
+    text-decoration-style: wavy;
+    font-weight:100;
+    width: 20%;
+}
+.classebold
+{
+font-weight:600;
+color: red;
+line-height: 40px;
+}
+h3 a
+{
+    color:pink;
+}
+input[type=text]
+{
+    border: 1px dashed green;
+}
+p::first-letter
+{
+    font-size: 30px;
+    
+}
+.sottopar {
+    background-color: rgba(0, 0, 255, 0.1);
+    color: black;
+    font-weight:lighter;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 10px;
+}
